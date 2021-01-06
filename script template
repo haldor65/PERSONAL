@@ -1,0 +1,15 @@
+<#
+.SYNOPSIS
+  SYNOPSIS HERE
+.DESCRIPTION
+  DESCRIPTION HERE
+.NOTES
+  File Name         : newscript.ps1
+  Author            : Cody Skalmowski
+  Prerequisite      : Powershell V5
+  Last Modified     : DATE
+  Last Modification : original
+.Link
+  Source Location: LINK
+#>
+Set-ExecutionPolicy Bypass
